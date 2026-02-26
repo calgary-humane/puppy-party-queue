@@ -1,4 +1,4 @@
-import QueueApp from "@/components/QueueApp";
+import QueueApp from "../components/QueueApp";
 
 export default function Page() {
   return (
